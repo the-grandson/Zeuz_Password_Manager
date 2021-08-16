@@ -9,7 +9,7 @@ The security is questionable because:
 2. Brute forcing the PIN is relatively easy.
 
 To mitigate the risk a bit you can keep the same (or diferent) set of digits for yourself.
-Alternatively there are other password managers that store our encrypted passwords in external ROM modules.
+Alternatively there are other password managers, check [PasswordPump](https://www.hackster.io/dan-murphy/passwordpump-passwords-manager-7c6d84), it stores our encrypted passwords in external ROM modules and has a lot more features.
 
 It was a funny project to build anyway.
 
