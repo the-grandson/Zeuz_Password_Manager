@@ -1,6 +1,8 @@
 # Zeuz_Password_Manager
 A simple password manager based on a Arduino Nano
 
+![ZPM Image](/Photos/IMG_20210817_132327.jpg)
+
 This password manager allows to store and display a set of username/passowrds for different accounts.
 The device is protected by a PIN that must be input on boot.
 
