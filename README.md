@@ -1,8 +1,11 @@
-# Zeuz_Password_Manager
+# Zeuz Password Manager (ZPM)
 A simple password manager based on a Arduino Nano
+
+![ZPM Image](/Photos/IMG_20210817_132327.jpg)
 
 This password manager allows to store and display a set of username/passowrds for different accounts.
 The device is protected by a PIN that must be input on boot.
+Check this [short video](https://youtu.be/qvDMkEPs7oM) for a demo.
 
 The security is questionable because:
 1. Retrieving and analyzing the Arduino ROM will reveal the credentials.
